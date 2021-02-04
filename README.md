@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Licia%20Sales-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/licia-sales-bab98a1a0/)](https://www.linkedin.com/in/licia-sales-bab98a1a0/)
 [![Mail Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCf9bClE1QOznupcvG7T2IHA) 
 
-
-I'm Lícia Sales, I'm a teachinical assistant in one of the computer lab  at Insper. We work with Robotic and Computer Vision in general. 
+I'm a teachinical assistant in one of the computer lab  at Insper. We work with Robotic and Computer Vision in general. 
 
 ## Skills and Experience
 
