@@ -6,7 +6,7 @@
 
 I'm a PhD student at UFABC, focusing on optimizing wireless energy harvesting (RFEH) circuits using reinforcement learning techniques. My research also involves High-Performance Computing (HPC) to improve the efficiency of these systems.
 
-I work as a Professor Assistant at Insper, providing support for courses in HPC and Programming. I have over 7 years of experience as a technician in Insper's laboratories, specializing in Robotics, Artificial Intelligence, Computer Vision, Parallel Programming, Distributed Programming, HPC, Robot Operating System (ROS), Python (Programming Language), Raspberry Pi, Shell Scripting, and GNU/Linux.
+I work as a Professor at Insper in HPC and Programming. I have over 7 years of experience as a technician in Insper's laboratories, specializing in Robotics, Artificial Intelligence, Computer Vision, Parallel Programming, Distributed Programming, HPC, Robot Operating System (ROS), Python (Programming Language), Raspberry Pi, Shell Scripting, and GNU/Linux.
 
 ## Skills and Experience
 
@@ -16,7 +16,7 @@ I work as a Professor Assistant at Insper, providing support for courses in HPC 
 
 
 ## Examples of Work
-
+* https://insper.github.io/supercomp/
 * https://github.com/Insper/insperbot/
 * https://github.com/insper/turtlebot3
 * https://insper.github.io/UpCluster/
